@@ -75,6 +75,7 @@ export const domain = {
   },
   "method_label": "GaussianNB与分层交叉验证、混淆矩阵和后验解释",
   "result_headline": "先看折外预测，再安排复检。",
+  "spares_headline": "把判读件数，还原成真类备货区间。",
   "column_labels": {
     "reference": "样本编号",
     "actual": "实际类型",
